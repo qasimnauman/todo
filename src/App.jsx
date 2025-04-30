@@ -10,6 +10,7 @@ const App = () => {
         Todo App
       </h1>
       <TodoApp />
+      <h3 className="mt-10 text-xl font-bold mb-4 text-center sm:text-xl md:text-xl">Made by Qasim Nauman</h3>
     </div>
   );
 };
